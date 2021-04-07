@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>PrintShop</Author>
+  <LastAuthor>Nick</LastAuthor>
+  <Created>2020-05-05T06:58:11Z</Created>
+  <LastSaved>2020-05-05T07:08:16Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7800</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63" ss:Name="Hyperlink">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#0563C1"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="5" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="115.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="91.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="107.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="105.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="97.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="102"/>
+   <Column ss:AutoFitWidth="0" ss:Width="76.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="84"/>
+   <Column ss:AutoFitWidth="0" ss:Width="81"/>
+   <Column ss:AutoFitWidth="0" ss:Width="82.5"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Project Name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Designation</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Company name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Image name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Logo image name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Line 1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Line 2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Line 3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Line 4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">projectmulti076</Data></Cell>
+    <Cell><Data ss:Type="String">Nikhil Dobariya</Data></Cell>
+    <Cell><Data ss:Type="String">student</Data></Cell>
+    <Cell><Data ss:Type="String">Bmiit</Data></Cell>
+    <Cell><Data ss:Type="String">nd.jpg</Data></Cell>
+    <Cell><Data ss:Type="String">logo.jpg</Data></Cell>
+    <Cell><Data ss:Type="Number">201706100110076</Data></Cell>
+    <Cell><Data ss:Type="String">Media club</Data></Cell>
+    <Cell ss:StyleID="s63" ss:HRef="http://www.utu.ac.in/"><Data ss:Type="String">www.utu.ac.in</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Parth kanani</Data></Cell>
+    <Cell><Data ss:Type="String">student</Data></Cell>
+    <Cell><Data ss:Type="String">Bmiit</Data></Cell>
+    <Cell><Data ss:Type="String">pk.jpg</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="Number">201706100110039</Data></Cell>
+    <Cell><Data ss:Type="String">Photography club</Data></Cell>
+    <Cell ss:StyleID="s63" ss:HRef="http://www.utu.ac.in/"><Data ss:Type="String">www.utu.ac.in</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">parth goti</Data></Cell>
+    <Cell><Data ss:Type="String">student</Data></Cell>
+    <Cell><Data ss:Type="String">Bmiit</Data></Cell>
+    <Cell><Data ss:Type="String">pg.jpg</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="Number">201706100110042</Data></Cell>
+    <Cell><Data ss:Type="String">Sport club</Data></Cell>
+    <Cell ss:StyleID="s63" ss:HRef="http://www.utu.ac.in/"><Data ss:Type="String">www.utu.ac.in</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Rutvik Boghra</Data></Cell>
+    <Cell><Data ss:Type="String">student</Data></Cell>
+    <Cell><Data ss:Type="String">Bmiit</Data></Cell>
+    <Cell><Data ss:Type="String">rb.jpg</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="Number">201706100110041</Data></Cell>
+    <Cell><Data ss:Type="String">Food club</Data></Cell>
+    <Cell ss:StyleID="s63" ss:HRef="http://www.utu.ac.in/"><Data ss:Type="String">www.utu.ac.in</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+     <ActiveCol>9</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
